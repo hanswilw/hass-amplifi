@@ -19,7 +19,7 @@ from .client import AmplifiClient, AmplifiClientError
 
 
 # Amplifi integration is setup as a sensor integration
-PLATFORMS = ["sensor"]
+PLATFORMS = ["device_tracker"]
 
 _LOGGER = logging.getLogger(__name__)
 

@@ -1,4 +1,5 @@
 {
+  "version": "1.0.0",
   "domain": "amplifi",
   "name": "Amplifi",
   "config_flow": true,
